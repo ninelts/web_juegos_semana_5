@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+Para levantar la aplicacion primero tienes que tener los requerimientos necesarios de laravel y una base de datos en mysql , una ves levantado el ambiente de desarrollo de laravel , usar las migraciones correspondientes con el comando php artisan migrate para crear las tablas en la base de datos , todos los archivos de configuracion estan en el .env
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
